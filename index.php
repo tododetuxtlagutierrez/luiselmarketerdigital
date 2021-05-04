@@ -64,7 +64,7 @@
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
-                <p class="lead text-center mb-0">Ejemplos de páginas web, para que observar como puede quedar la tuya.</p>
+                <p class="lead text-center mb-0">Ejemplos de páginas web, para que observes como puede quedar la tuya.</p>
                 <p class="lead text-center mt-0" style="margin-bottom: 3rem; font-size: 16px;">Nota: Los diseños son míos, pero las páginas no son de empresas reales, solo son para mostrarte el tipo de trabajo que realizo. </p>
                 <!-- Portfolio Grid Items-->
                 <div class="row justify-content-center">
