@@ -198,7 +198,7 @@
                             </div>
                             <div class="card-body">
                                 <p><del>$3,000.00 MXN </del> <span class="badge badge-warning"> 33% descuento</span></p>
-                              <h5 class="card-title">$1000.00 MXN</h5>
+                              <h5 class="card-title">$1,000.00 MXN</h5>
                               <ul class="mt-3 mb-4 text-left">
                                 <li>6 secciones máximo.</li>
                                 <li>Diseño Adaptable a Celulares y Tablets.</li>
