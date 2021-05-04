@@ -57,15 +57,15 @@
         <section class="page-section portfolio" id="portfolio">
             <div class="container">
                 <!-- Portfolio Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Portfolio</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Portafolio</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
-                <p class="lead text-center mb-0">Ejemplos de paginas web, para que observar como puede quedar la tuya.</p>
-                <p class="lead text-center mt-0" style="margin-bottom: 3rem; font-size: 16px;">Nota: Los diseños son mios pero las paginas no son de empresas reales, solo son para mostrarte el tipo de trabajo que realizo. </p>
+                <p class="lead text-center mb-0">Ejemplos de páginas web, para que observar como puede quedar la tuya.</p>
+                <p class="lead text-center mt-0" style="margin-bottom: 3rem; font-size: 16px;">Nota: Los diseños son míos, pero las páginas no son de empresas reales, solo son para mostrarte el tipo de trabajo que realizo. </p>
                 <!-- Portfolio Grid Items-->
                 <div class="row justify-content-center">
                     <!-- Portfolio Item 1-->
@@ -143,11 +143,11 @@
                 <!-- About Section Content-->
                 <div class="row">
                     <div class="col-lg-4 ml-auto"><p class="lead">
-                            Quieres tener tu propia página web para mostrar tus servicios, te puedo ayudar, tendras una página web de calidad con el cual 
-                            podras obtener más prospectos y clientes cada mes.
+                            Quieres tener tu propia página web para mostrar tus servicios, te puedo ayudar, tendrás una página web de calidad con el cual 
+                            podrás obtener más prospectos y clientes cada mes.
                         </p></div>
                     <div class="col-lg-4 mr-auto"><p class="lead">
-                        Por poco tiempo estoy ofreciendo mis servicios de diseño web a un precio muy economico, para ayudarte en estos momentos 
+                        Por poco tiempo estoy ofreciendo mis servicios de diseño web a un precio muy económico, para ayudarte en estos momentos 
                         tan complicados, en donde todos los negocios han bajado sus ventas. 
                     </p></div>
                 </div>
@@ -170,62 +170,63 @@
                 <div class="row">
                     <div class="col-lg-4 ml-auto">
                         <div class="card text-dark text-center">
-                            <div class="card-header">
+                            <div class="card-header bg-primary text-white bg-primary text-white">
                               Basico
                             </div>
                             <div class="card-body">
                                 <p><del>$1,500.00 MXN </del> <span class="badge badge-warning"> 33% descuento</span></p>
                               <h5 class="card-title">$500.00 MXN</h5>
-                              <ul class="list-unstyled mt-3 mb-4">
-                                <li>5 secciones máximo</li>
-                                <li>Subdominio includo</li>
-                                <li>Diseño de calidas</li>
-                                <li>Help center access</li>
+                              <ul class="mt-3 mb-4 text-left">
+                                <li>5 secciones máximo.</li>
+                                <li>Diseño Adaptable a Celulares y Tablets.</li>
+                                <li>Formulario de contacto.</li>
+                                <li>Botones de WhatsApp, Messenger y Teléfono.</li>
+                                <li>Gratis Hosting y Subdominio incluido (No propio).</li>
                               </ul>
                             </div>
                         </div>
         
                     </div>
 
-                    <div class="col-lg-4 mt-4 mt-lg-0">
+                    <div class="col-lg-4 mt-4 mt-lg-0 mr-auto"> <!--mr-auto / no si tarjetas digitales esta activo-->
                         <div class="card text-dark text-center">
-                            <div class="card-header">
+                            <div class="card-header bg-primary text-white">
                               Avanzado
                             </div>
                             <div class="card-body">
                                 <p><del>$3,000.00 MXN </del> <span class="badge badge-warning"> 33% descuento</span></p>
                               <h5 class="card-title">$1000.00 MXN</h5>
-                              <ul class="list-unstyled mt-3 mb-4">
-                                <li>5 secciones máximo</li>
-                                <li>Subdominio includo</li>
-                                <li>Diseño de calidas</li>
-                                <li>Help center access</li>
+                              <ul class="mt-3 mb-4 text-left">
+                                <li>6 secciones máximo.</li>
+                                <li>Diseño Adaptable a Celulares y Tablets.</li>
+                                <li>Formulario de contacto.</li>
+                                <li>Botones de WhatsApp, Messenger y Teléfono.</li>
+                                <li>Gratis Hosting y Dominio incluido (propio) por un Año.</li>
                               </ul>
                             </div>
                         </div>
         
                     </div>
-                
-                    <div class="col-lg-4 mr-auto mt-4 mt-lg-0">
+                    <!--
+                    <div class="col-lg-4 mr-auto mt-4 mt-lg-0"> 
                         
                         <div class="card text-dark text-center">
-                            <div class="card-header">
+                            <div class="card-header bg-primary text-white">
                               Tarjetas de presentación
                             </div>
                             <div class="card-body">
                                 <p><del>$1,200.00 MXN </del> <span class="badge badge-warning"> 33% descuento</span></p>
                               <h5 class="card-title">$400.00 MXN</h5>
-                              <ul class="list-unstyled mt-3 mb-4">
-                                <li>5 secciones máximo</li>
-                                <li>Subdominio includo</li>
-                                <li>Diseño de calidas</li>
-                                <li>Help center access</li>
+                              <ul class="mt-3 mb-4 text-left">
+                                <li>Diseño Adaptable a Celulares y Tablets.</li>
+                                <li>Botones de WhatsApp, Messenger y Teléfono.</li>
                               </ul>
                             </div>
                         </div>
             
                         
                     </div>
+                    -->
                 </div>
             </div>
 
@@ -247,7 +248,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <p class="lead text-center">
-                    Si te interesa alguna de las opciones o tienes alguna duda, contactame y pregunta sin compromiso.
+                    Si te interesa alguna de las opciones o tienes alguna duda, contáctame y pregunta sin compromiso.
                 </p>
                 <div class="d-flex justify-content-center">
                     <a class="btn btn-dark btn-lg" target="_blank" href="https://m.me/luiselmarketerdigital" role="button"> <i class="fab fa-facebook-messenger"></i> Contactar por Messenger</a>
@@ -276,7 +277,8 @@
                     <div class="col-lg-4">
                         <h4 class="text-uppercase mb-4">Acerca de Mi</h4>
                         <p class="lead mb-0">
-                            Marketer digital de Tuxtla Gutiérrez
+                            Marketer digital y diseñador de página web. 
+                            Mi misión es ayudar a emprendedores y empresarios a conseguir resultados increíbles (más ventas y clientes).
                         </p>
                     </div>
                 </div>
