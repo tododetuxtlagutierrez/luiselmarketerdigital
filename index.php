@@ -175,7 +175,7 @@
                     <div class="col-lg-4 ml-auto">
                         <div class="card text-dark text-center">
                             <div class="card-header bg-primary text-white bg-primary text-white">
-                              Basico
+                              Opción 1
                             </div>
                             <div class="card-body">
                                 <p><del>$1,500.00 MXN </del> <span class="badge badge-warning"> 33% descuento</span></p>
@@ -195,7 +195,7 @@
                     <div class="col-lg-4 mt-4 mt-lg-0 mr-auto"> <!--mr-auto / no si tarjetas digitales esta activo-->
                         <div class="card text-dark text-center">
                             <div class="card-header bg-primary text-white">
-                              Avanzado
+                               Opción 2
                             </div>
                             <div class="card-body">
                                 <p><del>$3,000.00 MXN </del> <span class="badge badge-warning"> 33% descuento</span></p>
