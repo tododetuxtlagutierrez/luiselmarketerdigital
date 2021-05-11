@@ -104,7 +104,7 @@
                         <div class="portfolio-item mx-auto">
                             <img class="img-fluid" src="assets/img/portfolio/web_de_mariachis.jpg" alt="" />
                         </div>
-                        <p class="text-center h5 mt-4"><a href="https://tododetuxtlagutierrez.github.io/mariachisinn/" target="_blank">Página web para servicios de fotografía y video</a></p>
+                        <p class="text-center h5 mt-4"><a href="https://tododetuxtlagutierrez.github.io/mariachisinn/" target="_blank">Página web para Mariachis</a></p>
                         <div class="d-flex justify-content-center mt-4">
                             <a class="btn btn-dark" href="https://tododetuxtlagutierrez.github.io/mariachisinn/" target="_blank">Ver</a>
                         </div>
