@@ -185,7 +185,9 @@
                                 <li>Diseño Adaptable a Celulares y Tablets.</li>
                                 <li>Formulario de contacto.</li>
                                 <li>Botones de WhatsApp, Messenger y Teléfono.</li>
-                                <li>Gratis Hosting y Subdominio incluido (No propio).</li>
+                                <li>Gratis Hosting y Subdominio incluido (No propio) para siempre.</li>
+                                <li>Solo pagas una vez.</li>
+                                <li>Solo Pagas cuando tu página esté lista.</li>
                               </ul>
                             </div>
                         </div>
@@ -206,6 +208,7 @@
                                 <li>Formulario de contacto.</li>
                                 <li>Botones de WhatsApp, Messenger y Teléfono.</li>
                                 <li>Gratis Hosting y Dominio incluido (propio) por un Año.</li>
+                                <li>Acabando el año, se cobra para renovar el hosting y el dominio.</li>
                               </ul>
                             </div>
                         </div>
