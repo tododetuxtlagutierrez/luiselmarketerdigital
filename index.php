@@ -104,7 +104,7 @@
                         <div class="portfolio-item mx-auto">
                             <img class="img-fluid" src="assets/img/portfolio/web_de_mariachis.jpg" alt="" />
                         </div>
-                        <p class="text-center h5 mt-4"><a href="https://tododetuxtlagutierrez.github.io/mariachisinn/" target="_blank">Página web para servicios de fotografía y video</a></p>
+                        <p class="text-center h5 mt-4"><a href="https://tododetuxtlagutierrez.github.io/mariachisinn/" target="_blank">Página web para Mariachis</a></p>
                         <div class="d-flex justify-content-center mt-4">
                             <a class="btn btn-dark" href="https://tododetuxtlagutierrez.github.io/mariachisinn/" target="_blank">Ver</a>
                         </div>
@@ -175,7 +175,7 @@
                     <div class="col-lg-4 ml-auto">
                         <div class="card text-dark text-center">
                             <div class="card-header bg-primary text-white bg-primary text-white">
-                              Basico
+                              Opción 1
                             </div>
                             <div class="card-body">
                                 <p><del>$1,500.00 MXN </del> <span class="badge badge-warning"> 33% descuento</span></p>
@@ -185,7 +185,9 @@
                                 <li>Diseño Adaptable a Celulares y Tablets.</li>
                                 <li>Formulario de contacto.</li>
                                 <li>Botones de WhatsApp, Messenger y Teléfono.</li>
-                                <li>Gratis Hosting y Subdominio incluido (No propio).</li>
+                                <li>Gratis Hosting y Subdominio incluido (No propio) para siempre.</li>
+                                <li>Solo pagas una vez.</li>
+                                <li>Solo Pagas cuando tu página esté lista.</li>
                               </ul>
                             </div>
                         </div>
@@ -195,7 +197,7 @@
                     <div class="col-lg-4 mt-4 mt-lg-0 mr-auto"> <!--mr-auto / no si tarjetas digitales esta activo-->
                         <div class="card text-dark text-center">
                             <div class="card-header bg-primary text-white">
-                              Avanzado
+                               Opción 2
                             </div>
                             <div class="card-body">
                                 <p><del>$3,000.00 MXN </del> <span class="badge badge-warning"> 33% descuento</span></p>
@@ -206,6 +208,7 @@
                                 <li>Formulario de contacto.</li>
                                 <li>Botones de WhatsApp, Messenger y Teléfono.</li>
                                 <li>Gratis Hosting y Dominio incluido (propio) por un Año.</li>
+                                <li>Acabando el año, se cobra para renovar el hosting y el dominio.</li>
                               </ul>
                             </div>
                         </div>
