@@ -39,9 +39,7 @@
         <!-- Masthead-->
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
-                <!-- Masthead Avatar Image-->
                 <img class="masthead-avatar mb-5 rounded-circle" src="assets/img/avatar.jpg" alt="" />
-                <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Tu propia página web</h1>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
@@ -50,8 +48,9 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Diseñador y desarrollador web</p>
+                <p class="masthead-subheading font-weight-light mb-0">Da el primer paso para aumentar tus prospectos y clientes</p>
             </div>
+            
         </header>
         <!-- Portfolio Section-->
         <section class="page-section portfolio" id="portfolio">
@@ -143,7 +142,6 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-
                     <div class="col-lg-4 ml-auto">
                     <p class="lead">¿Quieres tener tu propia página web para mostrar tus servicios?</p>
                     <p class="lead">
@@ -158,11 +156,8 @@
                 
             </div>
         </section>
-
-
         <!-- Seccion de precios -->
         <section class="page-section bg-white text-white mb-0" id="precios">
-
             <div class="container">
                 <h2 class="page-section-heading text-center text-uppercase text-dark">Precios</h2>
                 <!-- Icon Divider-->
@@ -193,7 +188,6 @@
                         </div>
         
                     </div>
-
                     <div class="col-lg-4 mt-4 mt-lg-0 mr-auto"> <!--mr-auto / no si tarjetas digitales esta activo-->
                         <div class="card text-dark text-center">
                             <div class="card-header bg-primary text-white">
@@ -236,13 +230,10 @@
                     -->
                 </div>
             </div>
-
         </section>
-
         
         
         
-
         <!-- Contact Section-->
         <section class="page-section bg-primary text-white" id="contact">
             <div class="container">
