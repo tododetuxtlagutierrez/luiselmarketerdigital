@@ -70,6 +70,17 @@
                     <!-- Portfolio Item 1-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto">
+                            <img class="img-fluid" src="assets/img/portfolio/dental_alternaaaaa.png" alt="" />
+                        </div>
+                        <p class="text-center h5 mt-4"><a href="https://tododetuxtlagutierrez.github.io/dentalartenativa/" target="_blank">Página web para un consultorio dental</a></p>
+                        <div class="d-flex justify-content-center mt-4">
+                            <a class="btn btn-dark" href="https://tododetuxtlagutierrez.github.io/dentalartenativa/" target="_blank">Ver</a>
+                        </div>
+                        
+                    </div>
+                    <!-- Portfolio Item 1-->
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto">
                             <img class="img-fluid" src="assets/img/portfolio/wedding_planner_web.jpg" alt="" />
                         </div>
                         <p class="text-center h5 mt-4"><a href="https://tododetuxtlagutierrez.github.io/weddingplanner/" target="_blank">Página web para wedding planner</a></p>
